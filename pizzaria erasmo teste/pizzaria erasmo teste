@@ -6,10 +6,11 @@
     <title>Meu Projeto Colorido</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<h1>cidade bela
+<h1>cidade bela</h1>
   <h3>PQ-VIANA-BARURERI.</h3>
   <h2>pizzaria italiana</h2>
-</h1>PQ eu amo pizza
+<p>PQ eu amo pizza</p>
+<ul>
 
 <body> 
 <li>pizza calabresa</li>
@@ -76,7 +77,7 @@
   <li>pizza de camarão com catupiry</li>
   <li>pizza de presunto com queijo</li>
 
-
+  </ul>
   
 
     <div class="caixa">
