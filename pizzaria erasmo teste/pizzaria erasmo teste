@@ -1,95 +1,32 @@
-<index html><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Projeto Colorido</title>
+    <title>Pizzaria Italiana - Geração Bela</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<h1>cidade bela</h1>
-  <h3>PQ-VIANA-BARURERI.</h3>
-  <h2>pizzaria italiana</h2>
-<p>PQ eu amo pizza</p>
-<ul>
+<body>
 
-<body> 
-<li>pizza calabresa</li>
-  <li>pizza margherita</li>
-</li>  <li>pizza quatro queijos</li>
-  <li>pizza portuguesa</li>
-  <li>pizza de frango com catupiry</li>
-  <li>pizza de chocolate</li>
-  <li>pizza vegetariana</li>
-  <li>pizza de pepperoni</li>
-  <li>pizza de muçarela</li>
-  <li>pizza de atum</li>
-  <li>pizza de bacon</li>
-  <li>pizza de cogumelos</li>
-  <li>pizza de abobrinha</li>
-  <li>pizza de rúcula com tomate seco</li>
-  <li>pizza de palmito</li>
-  <li>pizza de alho e óleo</li>
-  <li>pizza de carne seca com catupiry</li>
-  <li>pizza de brócolis com queijo</li>
-  <li>pizza de salame</li>
-  <li>pizza de cebola caramelizada</li>
-  <li>pizza de milho com ervilha</li>
-  <li>pizza de calabresa com cebola</li>
-  <li>pizza de frango com milho</li>
-  <li>pizza de quatro carnes</li>
-  <li>pizza de camarão</li>
-  <li>pizza de abacaxi com presunto</li>
-  <li>pizza de espinafre com ricota</li>
-  <li>pizza de queijo gorgonzola</li>
-  <li>pizza de tomate com manjericão</li>
-  <li>pizza de berinjela</li>
-  <li>pizza de presunto cru com rúcula</li>
-  <li>pizza de figo com queijo brie</li>
-  <li>pizza de salmão defumado</li>
-  <li>pizza de carne moída</li>
-  <li>pizza de abóbora com queijo</li>
-  <li>pizza de frango com requeijão</li>
-  <li>pizza de queijo coalho com melaço</li>
-  <li>pizza de linguiça toscana</li>
-  <li>pizza de palmito com catupiry</li>
-  <li>pizza de aliche</li>
-  <li>pizza de queijo prato</li>
-  <li>pizza de brócolis com alho</li>
-  <li>pizza de carne seca com cebola</li>
-  <li>pizza de frango com bacon</li>
-  <li>pizza de queijo minas</li>
-  <li>pizza de tomate cereja</li>
-  <li>pizza de abacaxi com queijo</li>
-  <li>pizza de cogumelos com queijo</li>
-  <li>pizza de calabresa com queijo</li>
-  <li>pizza de espinafre com alho</li>
-  <li>pizza de frango com catupiry e milho</li>
-  <li>pizza de queijo parmesão</li>
-  <li>pizza de carne seca com requeijão</li>
-  <li>pizza de brócolis com catupiry</li>
-  <li>pizza de linguiça calabresa</li>
-  <li>pizza de queijo gorgonzola com nozes</li>
-  <li>pizza de tomate seco com rúcula</li>
-  <li>pizza de frango com milho e catupiry</li>
-  <li>pizza de queijo brie com geleia</li>
-  <li>pizza de abobrinha com queijo</li>
-  <li>pizza de carne moída com queijo</li>
-  <li>pizza de camarão com catupiry</li>
-  <li>pizza de presunto com queijo</li>
+    <h1>Cidade bela</h1>
+    <h3>PQ-VIANA-BARUERI.</h3>
+    <h2>Pizzaria italiana</h2>
+    <p>PQ eu amo pizza</p>
 
-  </ul>
-  
+    <ul>
+        <li>pizza calabresa</li>
+        <li>Pizza Margherita</li>
+        <li>pizza quatro queijos</li>
+        <li>pizza portuguesa</li>
+        <li>pizza de frango com catupiry</li>
+        <li>pizza de chocolate</li>
+        <li>pizza vegetariana</li>
+        <li>pizza de pepperoni</li>
+        <li>pizza de mussarela</li>
+        <li>pizza de atum</li>
+        <li>pizza de bacon</li>
+        <li>pizza de cogumelos</li>
+    </ul>
 
-    <div class="caixa">
-    <a href="#"> <h1>òla,mundo!</h1></a>
-    </div> 
-    <h2>as mas barata pizzas italiana</h2>
 </body>
-
-
-
-
-
-
 </html>
-
